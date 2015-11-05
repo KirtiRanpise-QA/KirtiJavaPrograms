@@ -39,7 +39,7 @@ public class ArrayListExample2 {
 				System.out.println("Element: " +it.next());
 			
 		}
-			System.out.println("done");
+			//System.out.println("done");
 		}
 	}
 
